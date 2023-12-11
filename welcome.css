@@ -1,0 +1,40 @@
+.user{
+    background-color: pink;
+}
+video{
+   width:100%;
+}
+/* div{
+    background-color:cyan;
+} */
+.navbar-expand-lg .navbar-nav .nav-link {
+    padding-right: .5rem;
+    padding-left: .5rem;
+    color: black;
+    font-size: 25px;
+}
+.container1{
+    background-color: #e3e3e3; 
+    display:flex;
+}
+    .container1 img{
+        height:350px;
+        margin-top: 15px;
+    }
+.container1 .title{
+    padding: 10% 15%;
+}
+.container2{
+    background-color:#fff; 
+    display:flex;
+}
+    .container2 img{
+        height:350px;
+        margin-top: 15px;
+    }
+.container2 .title{
+    padding: 10% 15%;
+}
+footer{
+    background-color: rgb(208, 234, 234);
+}
